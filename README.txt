@@ -1,3 +1,10 @@
-1. Проект разворачивать необходимо на локальном сервере XAMPP с версией PHP 7.3+
-2. Дамб базы данных лежит в корне проекта под названием "Voting.sql"
-3. Стартовая страница проекта находится по URL: localhost/voting/index
+1. Установить Docker и Docker-compose 
+https://docs.docker.com/engine/install/ubuntu/
+https://docs.docker.com/compose/install/
+
+2. Открыть терминал из корня проекта
+
+3. Выполнить команды
+
+docker-compose build
+docker-compose up
