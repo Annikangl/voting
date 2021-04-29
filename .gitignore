@@ -1,0 +1,8 @@
+vendor/*
+
+# uploads dir
+uploads/*
+
+
+# mysql dump
+mysql-data/

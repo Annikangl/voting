@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpword": "^0.18.0",
+        "yetanotherape/diff-match-patch": "^1.1"
+    }
+}
